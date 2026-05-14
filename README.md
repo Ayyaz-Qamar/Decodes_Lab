@@ -47,43 +47,8 @@ Currently focused on developing real-world AI projects and strengthening my skil
 - VS Code
 
 ---
-
-# 📌 Featured Projects
-
-## 🎓 Student Performance Prediction System
-Machine Learning classification system that predicts student academic performance using supervised learning techniques.
-
-### Features:
-- Logistic Regression model
-- Data preprocessing & encoding
-- Interactive Streamlit frontend
-- Model serialization using Pickle
-
 ### Technologies:
-Python, Scikit-learn, Streamlit, Pandas
-
----
-
-## 🚦 AI-Based Traffic Monitoring System
-Computer Vision project for detecting road accidents and monitoring traffic conditions using AI techniques.
-
-### Technologies:
-YOLO, OpenCV, Python
-
----
-
-## 🌱 Automated Sugarcane Disease Detection System
-AI-powered agricultural system for detecting sugarcane diseases with prediction and recommendation features.
-
-### Features:
-- Disease detection using YOLO
-- Severity estimation
-- Weather integration
-- Recommendation engine
-- Dashboard & reporting system
-
-### Technologies:
-YOLOv8, Python, Streamlit
+Python, Scikit-learn, Streamlit, Pandas,numpy,flask,
 
 ---
 
@@ -107,9 +72,8 @@ Working on practical AI and Machine Learning projects focused on supervised lear
 
 # 📫 Connect With Me
 
-- GitHub: YOUR_GITHUB_LINK
-- LinkedIn: YOUR_LINKEDIN_LINK
-- Email: YOUR_EMAIL
+- Whattsapp: 03264875089
+- Email: ayyazqamar12@gmail.com 
 
 ---
 
